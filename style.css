@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(48, 143, 48);
+    color: white;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+p._pertama {
+    text-align: justify;
+}
+
+p#_kedua {
+    text-decoration: underline;
+}
+
+p._ketiga,  p._empat {
+    text-align: center;
+}
+
+p._lima {
+    text-decoration: line-through;
+}
